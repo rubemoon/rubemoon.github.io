@@ -33,8 +33,8 @@ PHP is a popular general-purpose scripting language that is especially suited to
       - [Multidimensional Arrays](#multidimensional-arrays)
   - [Functions](#functions)
   - [Superglobals](#superglobals)
-    - [$_GET](#get)
-    - [$_POST](#post)
+    - [$_GET](#_get)
+    - [$_POST](#_post)
   - [Including Files](#including-files)
   - [Error Handling](#error-handling)
 

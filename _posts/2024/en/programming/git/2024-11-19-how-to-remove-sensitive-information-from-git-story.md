@@ -5,7 +5,7 @@ categories: [Git, Version Control, Best Practices]
 tags: [Git, Sensitive Information, Security, Version Control]
 image:
     path: /assets/img/headers/git_sensitive_info.webp
-    lqip: data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAAAQAwCdASoUAAsAPzmGu1OvKSYisAgB4CcJYwAAW+ll18AA/rniDRhs9sq0/4Ip9WfHYHAA
+    lqip: data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAwCdASoUAAsAPzmIvlOvKScisAgB4CcJZAAAW8LUkW38CK/iwAD+3NuF581nJglNKNxQLBWKrbFaw1crw5UmLXteieBEYKblAPOr6ICWT1Pqc8pa/7diI3vgAAAA
 
 ---
 

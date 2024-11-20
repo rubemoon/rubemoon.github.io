@@ -2,10 +2,10 @@
 title: "Introduction to PHP"
 date: 2024-11-01 08:00:00 -0500
 categories: [php, concept]
-learning, php, scripting, web development, server-side, database, syntax, control structures, functions, superglobals, error handling
+tags: [learning, php, scripting, web development, server-side, database, syntax, control structures, functions, superglobals, error handling]
 image:
-    path: /assets/img/headers/php/php_introduction.webp
-    lqip: data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAAAQAwCdASoUAAsAPzmGu1OvKSYisAgB4CcJYwAAW+ll18AA/rniDRhs9sq0/4Ip9WfHYHAA
+    path: /assets/img/headers/php_introduction.webp
+    lqip: data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAwCdASoUAAsAPzmGu1OvKSYisAgB4CcJZQAAW+kA95YFPglMAAD+4wYR6Bd1b/MQMRYO/6pn3k0TBw213HHdH+AAAA==
 ---
 
 # Introduction to PHP
